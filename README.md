@@ -4,6 +4,8 @@
 
 This portfolio is built using React.js and Chakra UI.
 
+Website link: https://paluk-gupta-portfolio.netlify.app/
+
 To test, you can use the following commands:
 
 ```
