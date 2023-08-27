@@ -1,6 +1,6 @@
 ![hero](hero.png)
 
-# Portfolio using React.js and Chakra UI
+# Personal Portfolio
 
 This portfolio is built using React.js and Chakra UI.
 
