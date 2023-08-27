@@ -2,7 +2,7 @@
 
 # Portfolio using React.js and Chakra UI
 
-This portfolio is built using React.js and Chakra UI. It allows you to quickly create and customize your portfolio website using markdown files.
+This portfolio is built using React.js and Chakra UI.
 
 |    ![experience](example/Experience.gif)    | ![projects](example/Projects.gif) |
 | :-----------------------------------------: | :-------------------------------: |
