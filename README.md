@@ -4,13 +4,6 @@
 
 This portfolio is built using React.js and Chakra UI.
 
-|    ![experience](example/Experience.gif)    | ![projects](example/Projects.gif) |
-| :-----------------------------------------: | :-------------------------------: |
-         
-| ![otherprojects](example/OtherProjects.gif) |   ![mobile](example/Mobile.gif)   |
-
-
-
 To test, you can use the following commands:
 
 ```
